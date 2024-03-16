@@ -163,4 +163,14 @@ h3 {
 
 .footer-div {
   margin-top: 20px;
+  margin-bottom: 0;
+}
+
+.footer-div h3 {
+  margin-bottom: 10px;
+}
+
+.footer-div h4 {
+ margin-top: 3px;
+ margin-bottom: 0;
 }
