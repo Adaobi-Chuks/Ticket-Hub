@@ -47,7 +47,7 @@ export default function LandingPage() {
                     <button>Get Started</button>
                 </div>
                 <div className="footer">
-                    <img className="lp-logo footer-logo" src = {logo} />
+                    <img className="lp-logo footer-logo footer-div" src = {logo} />
                     <div className="footer1 footer-div">
                         <h3>Product</h3>
                         <h4>Physical ticketing</h4>
